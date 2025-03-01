@@ -1,6 +1,6 @@
 ﻿# age-culculator-using-html-css-js-
  
- A mobile responsive sample of Tic Toc Toe Game using HTML, CSS, JavaScript 
+ A mobile responsive sample of Age Culculator using HTML, CSS, JavaScript 
  
  HOME SCREEN-
  
